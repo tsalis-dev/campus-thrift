@@ -1,4 +1,4 @@
-# 🎓 Campus Thrift - Mobile App & RESTful API
+# Campus Thrift - Mobile App & RESTful API
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.77.0-61DAFB?logo=react&logoColor=white)](https://reactnative.dev/)
 [![Express.js](https://img.shields.io/badge/Express.js-4.19.2-000000?logo=express&logoColor=white)](https://expressjs.com/)
@@ -11,19 +11,19 @@
 
 ---
 
-## 📌 Tentang Aplikasi
+## Tentang Aplikasi
 
 **Campus Thrift** adalah platform *marketplace secondhand* berbasis mobile yang dirancang khusus untuk memfasilitasi mahasiswa dalam jual-beli dan tukar perlengkapan kuliah bekas (seperti buku teks kuliah, kalkulator saintifik, gadget, hingga peralatan kos).
 
 Aplikasi ini mengintegrasikan **RESTful API Backend** menggunakan **Express.js & Prisma ORM** dengan antarmuka mobile modern menggunakan **React Native**, memungkinkan mahasiswa untuk:
-- 📖 Menjelajahi katalog barang thrift mahasiswa kampus secara *real-time*.
-- 📸 Mengunggah barang thrift baru beserta foto asli dari galeri, judul, harga, dan kontak WhatsApp.
-- ✏️ Memperbarui deskripsi, harga, maupun mengganti foto barang.
-- 🗑️ Menghapus data barang yang sudah laku terjual.
+- Menjelajahi katalog barang thrift mahasiswa kampus secara real-time.
+- Mengunggah barang thrift baru beserta foto asli dari galeri, judul, harga, dan kontak WhatsApp.
+- Memperbarui deskripsi, harga, maupun mengganti foto barang.
+- Menghapus data barang yang sudah laku terjual.
 
 ---
 
-## 🛠️ Tech Stack & Arsitektur
+## Tech Stack & Arsitektur
 
 ```
 ┌─────────────────────────────────┐
@@ -58,7 +58,7 @@ Aplikasi ini mengintegrasikan **RESTful API Backend** menggunakan **Express.js &
 
 ---
 
-## 🗄️ Skema Database (Prisma ORM)
+## Skema Database (Prisma ORM)
 
 ```prisma
 model Post {
@@ -79,7 +79,7 @@ model Post {
 
 ---
 
-## 📡 Dokumentasi Endpoint REST API
+## Dokumentasi Endpoint REST API
 
 | Method | Endpoint | Deskripsi | Request Body / Payload |
 |---|---|---|---|
@@ -92,7 +92,7 @@ model Post {
 
 ---
 
-## 🚀 Panduan Menjalankan Proyek
+## Panduan Menjalankan Proyek
 
 ### 1. Menjalankan Backend (Express.js)
 1. Buka MySQL di server lokal Anda (misal via Laragon atau XAMPP).
@@ -141,6 +141,6 @@ model Post {
 
 ---
 
-## 👨‍💻 Kontributor
+## Kontributor
 * **Mata Kuliah:** Mobile Programming (Semester 5)
 * **Program:** FullStack JavaScript Developer dengan Express dan React Native (SantriKoding)

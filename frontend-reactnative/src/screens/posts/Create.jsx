@@ -100,7 +100,6 @@ const PostCreate = ({ navigation }) => {
             <Image source={{ uri: image.uri }} style={styles.previewImage} resizeMode="cover" />
           ) : (
             <View style={styles.placeholderContainer}>
-              <Text style={styles.placeholderIcon}>📷</Text>
               <Text style={styles.placeholderText}>Ketuk untuk memilih foto dari galeri</Text>
             </View>
           )}

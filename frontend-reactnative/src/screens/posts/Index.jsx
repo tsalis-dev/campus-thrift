@@ -112,7 +112,7 @@ const PostIndex = ({ navigation }) => {
     <SafeAreaView style={styles.container}>
       <StatusBar barStyle="light-content" backgroundColor="#1e3a8a" />
       <View style={styles.header}>
-        <Text style={styles.headerTitle}>🎓 Campus Thrift</Text>
+        <Text style={styles.headerTitle}>Campus Thrift</Text>
         <Text style={styles.headerSubtitle}>
           Pasar Jual-Beli & Tukar Barang Mahasiswa Kampus
         </Text>
